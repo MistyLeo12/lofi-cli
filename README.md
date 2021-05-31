@@ -8,10 +8,11 @@ This CLI was built to solve these issues taking a simple input (does not handle 
 
 ## Supported Functionalities
 
-Currently only allow for input with no special character
+Currently only allow for input with no special characters
 
 ## TODO
 
 * Allow for a second mode to just randomly pick a genre. No specific search needed
 * Error Handling for special characters or handle special characters
 * See if only playing the first result is the best result. Potential Solution randomize the video that is opened between the first result -- will create variability while still maintaining relevancy
+* ADD Plus Reverb functionality--a must and highly request feature😳
